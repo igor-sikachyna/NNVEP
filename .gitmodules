@@ -1,0 +1,18 @@
+[submodule "NNVEP-SRGAN-tensorflow"]
+	path = NNVEP-SRGAN-tensorflow
+	url = https://github.com/DagothHertil/NNVEP-SRGAN-tensorflow
+[submodule "NNVEP-srgan"]
+	path = NNVEP-srgan
+	url = https://github.com/DagothHertil/NNVEP-srgan
+[submodule "NNVEP-ESRGAN"]
+	path = NNVEP-ESRGAN
+	url = https://github.com/DagothHertil/NNVEP-ESRGAN
+[submodule "NNVEP-DeblurGAN-tf"]
+	path = NNVEP-DeblurGAN-tf
+	url = https://github.com/DagothHertil/NNVEP-DeblurGAN-tf
+[submodule "NNVEP-SRN-Deblur"]
+	path = NNVEP-SRN-Deblur
+	url = https://github.com/DagothHertil/NNVEP-SRN-Deblur
+[submodule "NNVEP-pytorch-sepconv"]
+	path = NNVEP-pytorch-sepconv
+	url = https://github.com/DagothHertil/NNVEP-pytorch-sepconv
