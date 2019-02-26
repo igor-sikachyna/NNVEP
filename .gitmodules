@@ -19,3 +19,6 @@
 [submodule "nnvep-models"]
 	path = nnvep-models
 	url = https://gitlab.com/DagothHertil/nnvep-models
+[submodule "NNVEP-DeblurGAN"]
+	path = NNVEP-DeblurGAN
+	url = https://github.com/DagothHertil/NNVEP-DeblurGAN
