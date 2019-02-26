@@ -7,9 +7,6 @@
 [submodule "NNVEP-ESRGAN"]
 	path = NNVEP-ESRGAN
 	url = https://github.com/DagothHertil/NNVEP-ESRGAN
-[submodule "NNVEP-DeblurGAN-tf"]
-	path = NNVEP-DeblurGAN-tf
-	url = https://github.com/DagothHertil/NNVEP-DeblurGAN-tf
 [submodule "NNVEP-SRN-Deblur"]
 	path = NNVEP-SRN-Deblur
 	url = https://github.com/DagothHertil/NNVEP-SRN-Deblur
